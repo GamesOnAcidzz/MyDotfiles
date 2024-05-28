@@ -1,0 +1,37 @@
+{
+    "com.github.carlosmape.ulauncher-calendar": {
+        "id": "com.github.carlosmape.ulauncher-calendar",
+        "url": "https://github.com/Carlosmape/ulauncher-calendar",
+        "updated_at": "2024-05-10T22:43:02.789499",
+        "last_commit": "36e6d2f9b238a7723525522bd373a22626cf3be5",
+        "last_commit_time": "2022-10-31T15:47:41"
+    },
+    "com.github.ceroprogramming.ulauncher-pulsecontrol": {
+        "id": "com.github.ceroprogramming.ulauncher-pulsecontrol",
+        "url": "https://github.com/CeroProgramming/ulauncher-pulsecontrol",
+        "updated_at": "2024-05-10T22:51:39.588859",
+        "last_commit": "241dae0ca39b857a0da2b8ede201ff6d33523849",
+        "last_commit_time": "2024-03-15T14:30:05"
+    },
+    "com.github.codyfish.ulauncher-mpd": {
+        "id": "com.github.codyfish.ulauncher-mpd",
+        "url": "https://github.com/codyfish/ulauncher-mpd",
+        "updated_at": "2024-05-10T22:55:13.488186",
+        "last_commit": "7a35c9066988cc96a99abfdc1684c8d3c37d0440",
+        "last_commit_time": "2020-05-30T08:43:37"
+    },
+    "com.github.iboyperson.ulauncher-system": {
+        "id": "com.github.iboyperson.ulauncher-system",
+        "url": "https://github.com/iboyperson/ulauncher-system",
+        "updated_at": "2024-05-13T23:38:09.965850",
+        "last_commit": "7dedd992709fa2297735cddf852404144d4da47c",
+        "last_commit_time": "2023-11-14T16:53:20"
+    },
+    "com.github.beajeanm.ulauncher-windows-switcher": {
+        "id": "com.github.beajeanm.ulauncher-windows-switcher",
+        "url": "https://github.com/beajeanm/ulauncher-windows-switcher",
+        "updated_at": "2024-05-25T21:25:17.452989",
+        "last_commit": "e746afcd1ae971294f983dadb6ad2c90a730ec39",
+        "last_commit_time": "2022-08-04T22:59:46"
+    }
+}
